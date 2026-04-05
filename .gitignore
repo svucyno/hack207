@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env (THIS IS YOUR MAIN PROBLEM)
+.venv/
+
+# Database
+*.db
+
+# Models / data
+*.pkl
+*.parquet
+*.csv
+
+# Executables
+*.exe
+*.dll
+
+# Folders
+uploads/
+quarantine/
+data/
+
+# OS
+.DS_Store
