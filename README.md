@@ -16,6 +16,13 @@ Unlike conventional systems, it not only detects malicious files but also verifi
 
 ---
 
+🚀 **Live Demo:**  
+👉 https://hack207-m28sum2jh8emqf4cgxuiya.streamlit.app/
+
+---
+
+Next-Gen Explainable Malware Detection & Behavioral DNA System
+
 ## ❗ Problem Statement
 
 Traditional antivirus systems suffer from major limitations:
@@ -160,6 +167,18 @@ Final Decision →
 - 🎓 Useful for cybersecurity research  
 
 ---
+
+## 🌐 Live Application
+
+Access the deployed system here:
+
+👉 https://hack207-m28sum2jh8emqf4cgxuiya.streamlit.app/
+
+Features you can test:
+- Upload files for malware detection
+- View SHAP explainability
+- Behavioral DNA analysis
+- Quarantine system
 
 ## 🎯 Future Enhancements
 
