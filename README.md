@@ -198,3 +198,4 @@ MalwareGuard AI is a **next-generation cybersecurity solution** that ensures:
 It brings **intelligence, transparency, and automation** into modern security systems.
 
 ---
+echo "## Project Overview" >> README.md
